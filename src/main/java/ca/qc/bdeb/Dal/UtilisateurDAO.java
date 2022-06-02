@@ -12,8 +12,8 @@ import ca.qc.bdeb.Models.Utilisateur;
 public class UtilisateurDAO implements IUtilisateurDAO {
 	/* UTILISATION DE JDBC */
 	final static String DB_URL = "jdbc:mysql://mysql-aliantoine.alwaysdata.net:3306/aliantoine_tpa15?useSSL=false";
-	final static String USERNAME = "265984";
-	final static String PASSWORD = "etudiant2022";
+	final static String USERNAME = "???";
+	final static String PASSWORD = "?????";
 
 	Connection connection;
 
